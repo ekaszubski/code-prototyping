@@ -21,7 +21,7 @@ double int_upper_von_mises( double const & k, double const & value, double const
     }
     while( fabs( sum_component ) > precision_value );
 
-    std::cout << "sum took " << ( order - 1 ) << " iterations to get within precision " << ( precision * 100 ) << "% (" << precision_value << ")" << std::endl;
+//    std::cout << "sum took " << ( order - 1 ) << " iterations to get within precision " << ( precision * 100 ) << "% (" << precision_value << ")" << std::endl;
 
     //std::cout << ">>>" << sum << std::endl;
 
