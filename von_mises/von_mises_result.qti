@@ -1161,264 +1161,6 @@ WindowLabel	/home/ekaszubski/workspace/ekaszubski/code-prototyping/von_mises/out
 100	0.00000000000000e+00	
 </data>
 </table>
-<multiLayer>
-Graph1	1	1	8/9/12 8:19 PM
-geometry	1372	735	509	452	minimized	active
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	400	300
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<graph>
-ggeometry	5	5	491	389
-PlotTitle	Title	#000000	4228
-<Antialiasing>0</Antialiasing>
-Background	#ffffff	255
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)			
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-TitleFont	Ubuntu	12	75	0	0	0
-ScaleFont0	Ubuntu	10	75	0	0	0
-ScaleFont1	Ubuntu	10	75	0	0	0
-ScaleFont2	Ubuntu	10	75	0	0	0
-ScaleFont3	Ubuntu	10	75	0	0	0
-AxisFont0	Ubuntu	10	50	0	0	0
-AxisFont1	Ubuntu	10	50	0	0	0
-AxisFont2	Ubuntu	10	50	0	0	0
-AxisFont3	Ubuntu	10	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	255
-curve	outputaa_x	outputaa_cdf-von-mises05	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
-curve	outputac_x	outputac_cdf-von-mises02	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
-curve	outputae_x	outputae_cdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
-curve	outputag_x	outputag_cdf-von-mises005	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
-curve	outputai_x	outputai_cdf-von-mises002	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
-scale	0	-1	2	0	8	5	0	0
-scale	1	-1	2	0	8	5	0	0
-scale	2	-8	8	0	8	5	0	0
-scale	3	-8	8	0	8	5	0	0
-LabelsFormat	0	4	0	4	0	4	0	4
-AxisType	0	0	0	0	
-MajorTicks	1	1	1	1
-MinorTicks	1	1	1	1
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	-2139128063	0	-1024
-EnabledTickLabels	1	1	1	1
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>-7.5989974937343</x>
-<y>1.8896321070234</y>
-<right>0.0601503759398483</right>
-<bottom>0.926421404682274</bottom>
-<attachTo>0</attachTo>
-<onTop>1</onTop>
-<Text>
-\l(1)%(1)
-\l(2)%(2)
-\l(3)%(3)
-\l(4)%(4)
-\l(5)%(5)
-</Text>
-<Font>Ubuntu	10	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-</multiLayer>
-<multiLayer>
-Graph2	1	1	8/9/12 8:20 PM
-geometry	0	735	509	452	minimized	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	400	300
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<graph>
-ggeometry	5	5	491	389
-PlotTitle	Title	#000000	4228
-<Antialiasing>0</Antialiasing>
-Background	#ffffff	255
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)			
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-TitleFont	Ubuntu	12	75	0	0	0
-ScaleFont0	Ubuntu	10	75	0	0	0
-ScaleFont1	Ubuntu	10	75	0	0	0
-ScaleFont2	Ubuntu	10	75	0	0	0
-ScaleFont3	Ubuntu	10	75	0	0	0
-AxisFont0	Ubuntu	10	50	0	0	0
-AxisFont1	Ubuntu	10	50	0	0	0
-AxisFont2	Ubuntu	10	50	0	0	0
-AxisFont3	Ubuntu	10	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	255
-curve	outputad_x	outputad_pdf-von-mises02	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
-curve	outputaf_x	outputaf_pdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
-curve	outputah_x	outputah_pdf-von-mises005	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
-curve	outputaj_x	outputaj_pdf-von-mises002	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
-curve	outputab_x	outputab_pdf-von-mises05	0	1	#ff00ff	0	1	7	0	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	100	1
-scale	0	-0.2	1	0	8	5	0	0
-scale	1	-0.2	1	0	8	5	0	0
-scale	2	-8	8	0	8	5	0	0
-scale	3	-8	8	0	8	5	0	0
-LabelsFormat	0	4	0	4	0	4	0	4
-AxisType	0	0	0	0	
-MajorTicks	1	1	1	1
-MinorTicks	1	1	1	1
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	0
-EnabledTickLabels	1	1	1	1
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>-7.5989974937343</x>
-<y>0.95585284280936</y>
-<right>0.140350877192983</right>
-<bottom>0.57056856187291</bottom>
-<attachTo>0</attachTo>
-<onTop>1</onTop>
-<Text>
-\l(1)%(1)
-\l(2)%(2)
-\l(3)%(3)
-\l(4)%(4)
-\l(5)%(5)
-</Text>
-<Font>Ubuntu	10	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-</multiLayer>
-<multiLayer>
-Graph3	1	1	8/9/12 8:21 PM
-geometry	1176	735	509	452	minimized	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	400	300
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<graph>
-ggeometry	5	5	491	389
-PlotTitle	Title	#000000	4228
-<Antialiasing>0</Antialiasing>
-Background	#ffffff	255
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)			
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-TitleFont	Ubuntu	12	75	0	0	0
-ScaleFont0	Ubuntu	10	75	0	0	0
-ScaleFont1	Ubuntu	10	75	0	0	0
-ScaleFont2	Ubuntu	10	75	0	0	0
-ScaleFont3	Ubuntu	10	75	0	0	0
-AxisFont0	Ubuntu	10	50	0	0	0
-AxisFont1	Ubuntu	10	50	0	0	0
-AxisFont2	Ubuntu	10	50	0	0	0
-AxisFont3	Ubuntu	10	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	255
-curve	outputak_x	outputak_cdf-von-mises-3141591	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
-curve	outputam_x	outputam_cdf-von-mises-157081	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
-curve	outputao_x	outputao_cdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
-curve	outputaq_x	outputaq_cdf-von-mises157081	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
-curve	outputas_x	outputas_cdf-von-mises3141591	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
-scale	0	-1.5	2.5	0	8	5	0	0
-scale	1	-1.5	2.5	0	8	5	0	0
-scale	2	-8	8	0	8	5	0	0
-scale	3	-8	8	0	8	5	0	0
-LabelsFormat	0	4	0	4	0	4	0	4
-AxisType	0	0	0	0	
-MajorTicks	1	1	1	1
-MinorTicks	1	1	1	1
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	0
-EnabledTickLabels	1	1	1	1
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>-7.5989974937343</x>
-<y>2.3528428093645</y>
-<right>1.50375939849624</right>
-<bottom>1.0685618729097</bottom>
-<attachTo>0</attachTo>
-<onTop>1</onTop>
-<Text>
-\l(1)%(1)
-\l(2)%(2)
-\l(3)%(3)
-\l(4)%(4)
-\l(5)%(5)
-</Text>
-<Font>Ubuntu	10	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-</multiLayer>
 <table>
 outputak	101	2	8/9/12 8:22 PM
 geometry	0	0	445	220	hidden
@@ -2579,92 +2321,6 @@ WindowLabel	/home/ekaszubski/workspace/ekaszubski/code-prototyping/von_mises/out
 100	0.00000000000000e+00	
 </data>
 </table>
-<multiLayer>
-Graph4	1	1	8/9/12 8:22 PM
-geometry	588	735	509	452	minimized	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	400	300
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<graph>
-ggeometry	5	5	491	389
-PlotTitle	Title	#000000	4228
-<Antialiasing>0</Antialiasing>
-Background	#ffffff	255
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)			
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-TitleFont	Ubuntu	12	75	0	0	0
-ScaleFont0	Ubuntu	10	75	0	0	0
-ScaleFont1	Ubuntu	10	75	0	0	0
-ScaleFont2	Ubuntu	10	75	0	0	0
-ScaleFont3	Ubuntu	10	75	0	0	0
-AxisFont0	Ubuntu	10	50	0	0	0
-AxisFont1	Ubuntu	10	50	0	0	0
-AxisFont2	Ubuntu	10	50	0	0	0
-AxisFont3	Ubuntu	10	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	255
-curve	outputal_x	outputal_pdf-von-mises-3141591	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
-curve	outputan_x	outputan_pdf-von-mises-157081	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
-curve	outputap_x	outputap_pdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
-curve	outputar_x	outputar_pdf-von-mises157081	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
-curve	outputat_x	outputat_pdf-von-mises3141591	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
-scale	0	0	0.35	0	8	5	0	0
-scale	1	0	0.35	0	8	5	0	0
-scale	2	-8	8	0	8	5	0	0
-scale	3	-8	8	0	8	5	0	0
-LabelsFormat	0	4	0	4	0	4	0	4
-AxisType	0	0	0	0	
-MajorTicks	1	1	1	1
-MinorTicks	1	1	1	1
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	36183040
-EnabledTickLabels	1	1	1	1
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>-7.7569620253165</x>
-<y>0.3371237458194</y>
-<right>1.51898734177215</right>
-<bottom>0.224749163879599</bottom>
-<attachTo>0</attachTo>
-<onTop>1</onTop>
-<Text>
-\l(1)%(1)
-\l(2)%(2)
-\l(3)%(3)
-\l(4)%(4)
-\l(5)%(5)
-</Text>
-<Font>Ubuntu	10	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-</multiLayer>
 <table>
 outputau	101	2	8/9/12 8:29 PM
 geometry	0	0	445	220	hidden
@@ -3825,178 +3481,6 @@ WindowLabel	/home/ekaszubski/workspace/ekaszubski/code-prototyping/von_mises/out
 100	0.00000000000000e+00	
 </data>
 </table>
-<multiLayer>
-Graph5	1	1	8/9/12 8:30 PM
-geometry	196	735	509	452	minimized	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	400	300
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<graph>
-ggeometry	5	5	491	389
-PlotTitle	Title	#000000	4228
-<Antialiasing>0</Antialiasing>
-Background	#ffffff	255
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)			
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-TitleFont	Ubuntu	12	75	0	0	0
-ScaleFont0	Ubuntu	10	75	0	0	0
-ScaleFont1	Ubuntu	10	75	0	0	0
-ScaleFont2	Ubuntu	10	75	0	0	0
-ScaleFont3	Ubuntu	10	75	0	0	0
-AxisFont0	Ubuntu	10	50	0	0	0
-AxisFont1	Ubuntu	10	50	0	0	0
-AxisFont2	Ubuntu	10	50	0	0	0
-AxisFont3	Ubuntu	10	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	255
-curve	outputau_x	outputau_cdf-wrapped-normal05	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
-curve	outputaw_x	outputaw_cdf-wrapped-normal02	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
-curve	outputay_x	outputay_cdf-wrapped-normal01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
-curve	outputba_x	outputba_cdf-wrapped-normal005	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
-curve	outputbc_x	outputbc_cdf-wrapped-normal002	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
-scale	0	-1	2	0	8	5	0	0
-scale	1	-1	2	0	8	5	0	0
-scale	2	-8	8	0	8	5	0	0
-scale	3	-8	8	0	8	5	0	0
-LabelsFormat	0	4	0	4	0	4	0	4
-AxisType	0	0	0	0	
-MajorTicks	1	1	1	1
-MinorTicks	1	1	1	1
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	0
-EnabledTickLabels	1	1	1	1
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>-7.5989974937343</x>
-<y>1.8896321070234</y>
-<right>1.6641604010025</right>
-<bottom>0.926421404682274</bottom>
-<attachTo>0</attachTo>
-<onTop>1</onTop>
-<Text>
-\l(1)%(1)
-\l(2)%(2)
-\l(3)%(3)
-\l(4)%(4)
-\l(5)%(5)
-</Text>
-<Font>Ubuntu	10	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-</multiLayer>
-<multiLayer>
-Graph6	1	1	8/9/12 8:30 PM
-geometry	392	735	509	452	minimized	
-WindowLabel		2
-Margins	5	5	5	5
-Spacing	5	5
-LayerCanvasSize	400	300
-Alignement	0	0
-<AlignPolicy>0</AlignPolicy>
-<graph>
-ggeometry	5	5	491	389
-PlotTitle	Title	#000000	4228
-<Antialiasing>0</Antialiasing>
-Background	#ffffff	255
-Margin	0
-Border	0	#000000
-grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
-EnabledAxes	1	1	1	1	
-AxesTitles	%(?X)	%(?Y)			
-AxesTitleColors	#000000	#000000	#000000	#000000	
-AxesTitleAlignment	5124	5124	5124	5124
-AxesTitleDistance	2	2	2	2
-TitleFont	Ubuntu	12	75	0	0	0
-ScaleFont0	Ubuntu	10	75	0	0	0
-ScaleFont1	Ubuntu	10	75	0	0	0
-ScaleFont2	Ubuntu	10	75	0	0	0
-ScaleFont3	Ubuntu	10	75	0	0	0
-AxisFont0	Ubuntu	10	50	0	0	0
-AxisFont1	Ubuntu	10	50	0	0	0
-AxisFont2	Ubuntu	10	50	0	0	0
-AxisFont3	Ubuntu	10	50	0	0	0
-AxesColors	#000000	#000000	#000000	#000000
-AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
-AxesBaseline	0	0	0	0	
-CanvasBackground	#ffffff	255
-curve	outputbd_x	outputbd_pdf-wrapped-normal002	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
-curve	outputbb_x	outputbb_pdf-wrapped-normal005	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
-curve	outputaz_x	outputaz_pdf-wrapped-normal01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
-curve	outputax_x	outputax_pdf-wrapped-normal02	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
-curve	outputav_x	outputav_pdf-wrapped-normal05	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
-scale	0	-0.2	1	0	8	5	0	0
-scale	1	-0.2	1	0	8	5	0	0
-scale	2	-8	8	0	8	5	0	0
-scale	3	-8	8	0	8	5	0	0
-LabelsFormat	0	4	0	4	0	4	0	4
-AxisType	0	0	0	0	
-MajorTicks	1	1	1	1
-MinorTicks	1	1	1	1
-TicksLength	5	9
-DrawAxesBackbone	1	1	1	1	1
-AxesLineWidth	1
-LabelsRotation	0	0
-LabelsPrefix				
-LabelsSuffix				
-TickLabelsSpace	4	4	4	4
-ShowTicksPolicy	0	0	0	46790704
-EnabledTickLabels	1	1	1	1
-<Legend>
-<Frame>1</Frame>
-<Color>#000000</Color>
-<FrameWidth>1</FrameWidth>
-<LineStyle>0</LineStyle>
-<x>-7.5989974937343</x>
-<y>0.95585284280936</y>
-<right>1.74436090225564</right>
-<bottom>0.57056856187291</bottom>
-<attachTo>0</attachTo>
-<onTop>1</onTop>
-<Text>
-\l(1)%(1)
-\l(2)%(2)
-\l(3)%(3)
-\l(4)%(4)
-\l(5)%(5)
-</Text>
-<Font>Ubuntu	10	50	0	0	0</Font>
-<TextColor>#000000</TextColor>
-<Background>#ffffff</Background>
-<Alpha>0</Alpha>
-<Angle>0</Angle>
-<AutoUpdate>1</AutoUpdate>
-<TeXOutput>0</TeXOutput>
-</Legend>
-</graph>
-<LinkXAxes>0</LinkXAxes>
-</multiLayer>
 <table>
 outputbe	101	2	8/9/12 8:31 PM
 geometry	0	0	445	220	hidden
@@ -5158,8 +4642,8 @@ WindowLabel	/home/ekaszubski/workspace/ekaszubski/code-prototyping/von_mises/out
 </data>
 </table>
 <multiLayer>
-Graph7	1	1	8/9/12 8:31 PM
-geometry	784	735	509	452	minimized	
+Graph1	1	1	8/9/12 8:19 PM
+geometry	0	0	509	454	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -5167,7 +4651,523 @@ LayerCanvasSize	400	300
 Alignement	0	0
 <AlignPolicy>0</AlignPolicy>
 <graph>
-ggeometry	5	5	491	389
+ggeometry	5	3	486	397
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	outputaa_x	outputaa_cdf-von-mises05	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
+curve	outputac_x	outputac_cdf-von-mises02	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
+curve	outputae_x	outputae_cdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
+curve	outputag_x	outputag_cdf-von-mises005	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
+curve	outputai_x	outputai_cdf-von-mises002	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
+scale	0	-1	2	0	8	5	0	0
+scale	1	-1	2	0	8	5	0	0
+scale	2	-8	8	0	8	5	0	0
+scale	3	-8	8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	-2139128063	0	-1024
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-7.5989974937343</x>
+<y>1.8896321070234</y>
+<right>-3.53002610966057</right>
+<bottom>1.60338983050847</bottom>
+<attachTo>0</attachTo>
+<onTop>1</onTop>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+</multiLayer>
+<multiLayer>
+Graph2	1	1	8/9/12 8:20 PM
+geometry	510	2	509	452	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<graph>
+ggeometry	5	5	486	389
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	outputad_x	outputad_pdf-von-mises02	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
+curve	outputaf_x	outputaf_pdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
+curve	outputah_x	outputah_pdf-von-mises005	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
+curve	outputaj_x	outputaj_pdf-von-mises002	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
+curve	outputab_x	outputab_pdf-von-mises05	0	1	#ff00ff	0	1	7	0	#ff00ff	#ff00ff	0	#000000	14	1	2	0	0	100	1
+scale	0	-0.2	1	0	8	5	0	0
+scale	1	-0.2	1	0	8	5	0	0
+scale	2	-8	8	0	8	5	0	0
+scale	3	-8	8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-7.5989974937343</x>
+<y>0.95585284280936</y>
+<right>-3.53002610966057</right>
+<bottom>0.84135593220339</bottom>
+<attachTo>0</attachTo>
+<onTop>1</onTop>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+</multiLayer>
+<multiLayer>
+Graph3	1	1	8/9/12 8:21 PM
+geometry	3	454	509	452	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<graph>
+ggeometry	5	5	486	389
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	outputak_x	outputak_cdf-von-mises-3141591	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
+curve	outputam_x	outputam_cdf-von-mises-157081	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
+curve	outputao_x	outputao_cdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
+curve	outputaq_x	outputaq_cdf-von-mises157081	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
+curve	outputas_x	outputas_cdf-von-mises3141591	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
+scale	0	-1.5	2.5	0	8	5	0	0
+scale	1	-1.5	2.5	0	8	5	0	0
+scale	2	-8	8	0	8	5	0	0
+scale	3	-8	8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-7.5989974937343</x>
+<y>2.3528428093645</y>
+<right>-3.53002610966057</right>
+<bottom>1.97118644067797</bottom>
+<attachTo>0</attachTo>
+<onTop>1</onTop>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+</multiLayer>
+<multiLayer>
+Graph4	1	1	8/9/12 8:22 PM
+geometry	511	453	509	452	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<graph>
+ggeometry	5	5	486	389
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	outputal_x	outputal_pdf-von-mises-3141591	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
+curve	outputan_x	outputan_pdf-von-mises-157081	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
+curve	outputap_x	outputap_pdf-von-mises01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
+curve	outputar_x	outputar_pdf-von-mises157081	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
+curve	outputat_x	outputat_pdf-von-mises3141591	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
+scale	0	0	0.35	0	8	5	0	0
+scale	1	0	0.35	0	8	5	0	0
+scale	2	-8	8	0	8	5	0	0
+scale	3	-8	8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	36183040
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-7.7569620253165</x>
+<y>0.3371237458194</y>
+<right>-3.53002610966057</right>
+<bottom>0.303728813559322</bottom>
+<attachTo>0</attachTo>
+<onTop>1</onTop>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+</multiLayer>
+<multiLayer>
+Graph5	1	1	8/9/12 8:30 PM
+geometry	1021	2	509	452	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<graph>
+ggeometry	5	8	486	385
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	outputau_x	outputau_cdf-wrapped-normal05	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
+curve	outputaw_x	outputaw_cdf-wrapped-normal02	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
+curve	outputay_x	outputay_cdf-wrapped-normal01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
+curve	outputba_x	outputba_cdf-wrapped-normal005	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
+curve	outputbc_x	outputbc_cdf-wrapped-normal002	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
+scale	0	-1	2	0	8	5	0	0
+scale	1	-1	2	0	8	5	0	0
+scale	2	-8	8	0	8	5	0	0
+scale	3	-8	8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-7.6335877862595</x>
+<y>1.8571428571429</y>
+<right>3.39949109414758</right>
+<bottom>0.673469387755102</bottom>
+<attachTo>0</attachTo>
+<onTop>1</onTop>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+</multiLayer>
+<multiLayer>
+Graph6	1	1	8/9/12 8:30 PM
+geometry	1528	2	509	452	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<graph>
+ggeometry	5	5	486	389
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+Background	#ffffff	255
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	%(?X)	%(?Y)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+TitleFont	Ubuntu	12	75	0	0	0
+ScaleFont0	Ubuntu	10	75	0	0	0
+ScaleFont1	Ubuntu	10	75	0	0	0
+ScaleFont2	Ubuntu	10	75	0	0	0
+ScaleFont3	Ubuntu	10	75	0	0	0
+AxisFont0	Ubuntu	10	50	0	0	0
+AxisFont1	Ubuntu	10	50	0	0	0
+AxisFont2	Ubuntu	10	50	0	0	0
+AxisFont3	Ubuntu	10	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#3c3c3c	#3c3c3c	#3c3c3c	#3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffff	255
+curve	outputbd_x	outputbd_pdf-wrapped-normal002	0	1	#000000	0	1	7	0	#000000	#000000	0	#000000	14	1	2	0	0	100	1
+curve	outputbb_x	outputbb_pdf-wrapped-normal005	0	1	#ff0000	0	1	7	0	#ff0000	#ff0000	0	#000000	14	1	2	0	0	100	1
+curve	outputaz_x	outputaz_pdf-wrapped-normal01	0	1	#00ff00	0	1	7	0	#00ff00	#00ff00	0	#000000	14	1	2	0	0	100	1
+curve	outputax_x	outputax_pdf-wrapped-normal02	0	1	#0000ff	0	1	7	0	#0000ff	#0000ff	0	#000000	14	1	2	0	0	100	1
+curve	outputav_x	outputav_pdf-wrapped-normal05	0	1	#00ffff	0	1	7	0	#00ffff	#00ffff	0	#000000	14	1	2	0	0	100	1
+scale	0	-0.2	1	0	8	5	0	0
+scale	1	-0.2	1	0	8	5	0	0
+scale	2	-8	8	0	8	5	0	0
+scale	3	-8	8	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	46790704
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-7.5989974937343</x>
+<y>0.95585284280936</y>
+<right>-3.53002610966057</right>
+<bottom>0.84135593220339</bottom>
+<attachTo>0</attachTo>
+<onTop>1</onTop>
+<Text>
+\l(1)%(1)
+\l(2)%(2)
+\l(3)%(3)
+\l(4)%(4)
+\l(5)%(5)
+</Text>
+<Font>Ubuntu	10	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+</multiLayer>
+<multiLayer>
+Graph7	1	1	8/9/12 8:31 PM
+geometry	1021	455	509	452	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<graph>
+ggeometry	5	5	486	389
 PlotTitle	Title	#000000	4228
 <Antialiasing>0</Antialiasing>
 Background	#ffffff	255
@@ -5221,8 +5221,8 @@ EnabledTickLabels	1	1	1	1
 <LineStyle>0</LineStyle>
 <x>-7.5989974937343</x>
 <y>2.3528428093645</y>
-<right>3.1077694235589</right>
-<bottom>1.0685618729097</bottom>
+<right>-3.53002610966057</right>
+<bottom>1.97118644067797</bottom>
 <attachTo>0</attachTo>
 <onTop>1</onTop>
 <Text>
@@ -5245,7 +5245,7 @@ EnabledTickLabels	1	1	1	1
 </multiLayer>
 <multiLayer>
 Graph8	1	1	8/9/12 8:31 PM
-geometry	980	735	509	452	minimized	
+geometry	1530	454	509	452	
 WindowLabel		2
 Margins	5	5	5	5
 Spacing	5	5
@@ -5253,7 +5253,7 @@ LayerCanvasSize	400	300
 Alignement	0	0
 <AlignPolicy>0</AlignPolicy>
 <graph>
-ggeometry	5	5	491	389
+ggeometry	5	5	486	389
 PlotTitle	Title	#000000	4228
 <Antialiasing>0</Antialiasing>
 Background	#ffffff	255
@@ -5307,8 +5307,8 @@ EnabledTickLabels	1	1	1	1
 <LineStyle>0</LineStyle>
 <x>-7.7544757033248</x>
 <y>0.3371237458194</y>
-<right>3.25319693094629</right>
-<bottom>0.224749163879599</bottom>
+<right>-3.53002610966057</right>
+<bottom>0.303728813559322</bottom>
 <attachTo>0</attachTo>
 <onTop>1</onTop>
 <Text>
