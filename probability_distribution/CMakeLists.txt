@@ -1,11 +1,17 @@
 cmake_minimum_required(VERSION 2.4.6)
 
-set( PROJECT_NAME probability_distribution )
+project( probability_distribution )
 
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/lib)
 
 add_definitions( -std=c++0x )
+
+INCLUDE( FindPkgConfig )
+
+pkg_check_modules( GSL REQUIRED gsl )
+include_directories( ${GSL_INCLUDE_DIRS} )
+link_directories( ${GSL_LIBRARY_DIRS} )
 
 include_directories( include )
 

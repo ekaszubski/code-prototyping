@@ -2,4 +2,4 @@
 file( GLOB LIB_SOURCES RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} *.cpp *.cc *.c )
 
 add_library( ${PROJECT_NAME} SHARED ${LIB_SOURCES} )
-target_link_libraries( ${PROJECT_NAME} gsl cblas )
+target_link_libraries( ${PROJECT_NAME} ${GSL_LIBRARIES} )
