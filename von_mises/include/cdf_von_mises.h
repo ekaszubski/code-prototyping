@@ -16,13 +16,6 @@
 double int_indef_von_mises( double const & mean, double const & k, double const & value, double const & precision = 0.05 );
 
 // #############################################################################################################################################
-//! The cumulative distribution function of the zero-centered Von Mises distribution
-/*! @param k kappa, the measure of concentration
- *  @param value, the value at which to evaluate the CDF
- */
-double cdf_norm_von_mises( double const & k, double const & value );
-
-// #############################################################################################################################################
 //! The cumulative distribution function of the Von Mises distribution
 /*! @param mean the location of the center of the distribution
  *  @param k kappa, the measure of concentration
